@@ -2,5 +2,4 @@
 twibot
 
 
-Hi there
-Ignore my spaghetti code lol
+Hi there ignore my spaghetti code lol
