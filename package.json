@@ -1,0 +1,17 @@
+{
+  "name": "twilight-bot",
+  "version": "1.0.0",
+  "description": "used for admin panels/sql stuff, private",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Twilight#0013",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.1"
+  }
+}
