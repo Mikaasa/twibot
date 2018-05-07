@@ -1,4 +1,4 @@
-const reqEvent = (event) => require(`../events/${event}`);
+const reqEvent = (event) => require(`../commands/events/${event}`);
 
 module.exports = client => {
 
